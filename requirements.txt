@@ -1,2 +1,2 @@
 streamlit
-fitz
+pymupdf==1.25.5  
